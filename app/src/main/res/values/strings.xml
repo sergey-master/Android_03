@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shiyko</string>
+    <string name="action_settings">А тут ничего нет</string>
+
+    <string name="title_section1">Домашнее задание</string>
+    <string name="title_section2">Анимации</string>
+    <string name="title_section3">Автор</string>
+
+    <string name="txt_scr_1">Создать проект с Action Bar.
+    \n\nРеализовать паттерн Navigation Drawer.
+    \n\nРеализовать любой список (минимум 2 элемента).
+    \n\nВ отдельном скрине приложения повторить минимум 4 анимации из видеоурока.
+    \n\nПоддержка вертикальной и горизонтальной ориентации</string>
+
+    <string name="txt_scr_21">Blink</string>
+    <string name="txt_scr_22">Rotate</string>
+    <string name="txt_scr_23">Slide up</string>
+    <string name="txt_scr_24">Slide down</string>
+    <string name="txt_scr_25">Zoom out</string>
+    <string name="txt_scr_26">Zoom in</string>
+
+    <string name="txt_scr_3">Автор проекта:
+    \nШийко Сергей</string>
+
+    <string name="log">Log</string>
+    <string name="find">Find</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

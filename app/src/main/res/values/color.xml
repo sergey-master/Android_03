@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="blue"   type="color">#ff0099cc</item>
+    <item name="green"  type="color">#ff00aa00</item>
+    <item name="white"  type="color">#ffffffff</item>
+    <item name="black"  type="color">#ff000000</item>
+
+    <item name="pink"   type="color">#ffffd7de</item>
+    <item name="yellow" type="color">#fffff2ca</item>
+    <item name="lime"   type="color">#ffc6ffc3</item>
+
+</resources>
